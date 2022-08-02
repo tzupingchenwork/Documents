@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "172554d09f5bfbb2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8404448746c41cfc",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "pages/financial/assets/ETH_ACC.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02f8c33addaad00e",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb52a51306abd676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "906ee0186c23e512",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d8726bf65fc5112",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8c8c8c098a58e942",
+    "type": "split",
+    "children": [
+      {
+        "id": "5499dd280c866bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "506c4c25effd2fda",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/financial/assets/ETH_ACC.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8404448746c41cfc",
+  "lastOpenFiles": [
+    "pages/financial/assets/ETH_ACC.png",
+    "pages/financial/assets/BTC_ACC.png",
+    "pages/financial/assets/截圖 2021-02-01 下午11.26.45.png",
+    "pages/financial/assets/截圖 2021-02-01 下午11.26.30.png",
+    "pages/financial/assets/截圖 2021-02-01 下午10.33.46.png",
+    "pages/financial/assets/截圖 2021-02-01 下午10.33.26.png",
+    "pages/financial/assets/截圖 2021-01-31 下午10.03.50.png",
+    "pages/financial/assets/截圖 2020-12-17 下午10.11.18.png",
+    "journals/2022_07_24.md",
+    "pages/2022-07-24.md"
+  ]
+}
